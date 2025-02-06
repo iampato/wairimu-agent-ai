@@ -1,0 +1,9 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+websockets==12.0
+aiohttp==3.9.3
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.1
+agno==latest
+phidata==latest
