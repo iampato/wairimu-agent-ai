@@ -12,8 +12,8 @@ AI agent for crypto operations.
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:chatxbt/bitramp.git
-cd bitramp
+git clone git@github.com:iampato/wairimu-agent-ai.git
+cd wairimu-agent-ai
 ```
 
 ## Set up environment variables:
