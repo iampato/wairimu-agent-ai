@@ -4,9 +4,8 @@ AI agent for crypto operations.
 ## Prerequisites
 
 - Python 3.12+, to install different python versions, use [pyenv](https://github.com/pyenv/pyenv)
-- Docker and Docker Compose
-- PostgreSQL
-- Redis
+- uv package manager
+- agno a lightweight framework for building multi-modal Agents.
 
 ## Quick Start
 
@@ -28,7 +27,6 @@ cp .env.example .env
 make venv
 source .venv/bin/activate
 make install
-make install-dev
 
 # Start development server
 make dev

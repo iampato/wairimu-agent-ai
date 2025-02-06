@@ -5,5 +5,4 @@ aiohttp==3.9.3
 pydantic==2.6.1
 pydantic-settings==2.1.0
 python-dotenv==1.0.1
-agno==latest
-phidata==latest
+agno==1.0.6
